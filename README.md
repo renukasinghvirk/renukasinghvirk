@@ -17,7 +17,7 @@ I’m Renuka SINGH VIRK, a *Master's student in Electrical and Electronics Engin
  Conducted a computer vision project for EE-451 for the detection and classification of euro and franc coins, building an automated classification system. [Repository](https://github.com/renukasinghvirk/Project_imageanalysis/blob/ca8c9e9af73ab01da491050c1336f810f3ea0128/Group56%20(5).ipynb)
 
 - **Hate Speech Detection**  
-  Investigated hate speech detection using natural language processing and deep learning techniques. The project aims to address hate speech handling online in a comical way. [Repository]([https://github.com/camicc/Hatespeech-Detection.git](https://github.com/mehdihajoub/Borderline/tree/main))
+  Investigated hate speech detection using natural language processing and deep learning techniques. The project aims to address hate speech handling online in a comical way. [Repository]([https://github.com/camicc/Hatespeech-Detection.git](https://github.com/mehdihajoub/Borderline/tree/main)
 
 - **Predicting Cocaine Use Disorder and Post-Traumatic Stress Patients**  
   Focused on classification tasks in a clinical psychology setting. Conducted under the supervision of Dr. Lina Dietker at the Laboratory of Experimental Psychopathology and Psychotherapy, University of Zurich. [Repository](https://github.com/CS-433/ml-project-2-roc-stars.git)
