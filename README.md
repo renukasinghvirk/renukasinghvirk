@@ -3,7 +3,7 @@
 I’m Renuka SINGH VIRK, a *MSc student in Electrical and Electronic Engineering with a focus on Machine Learning and Signal Processing* at **EPFL**. My work and projects are centered around  *machine learning*, *image & video analysis*, *wireless communication*, *embedded systems* and *hardware design*. 
 
 ### 🗂️ Ongoing Projects
-- ** Lab in Signal and Image Processing **
+- **Lab in Signal and Image Processing**
   - [Introduction to image processing](https://github.com/renukasinghvirk/lab_signal_processing/blob/main/Assignment%201%20Introduction%20to%20Image%20Processing.ipynb)
   - [Object detection and recognition](https://github.com/renukasinghvirk/lab_signal_processing/blob/main/Assignment%202%20Object%20Detection%20and%20Recognition.ipynb)
   - [Object tracking](https://github.com/renukasinghvirk/lab_signal_processing/blob/main/Assignment%203%20Object%20Tracking.ipynb)
