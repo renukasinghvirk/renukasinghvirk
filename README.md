@@ -3,12 +3,12 @@
 I’m Renuka SINGH VIRK, a *MSc student in Electrical and Electronic Engineering with a focus on Machine Learning and Signal Processing* at **EPFL**. My work and projects are centered around  *machine learning*, *image & video analysis*, *wireless communication*, *embedded systems* and *hardware design*. 
 
 ### 🗂️ Ongoing Projects
-- **Ask the Migration Reports: a RAG chatbot**
+- **Ask the Migration Reports: a RAG chatbot** \
   This project realized in the context of the [ELIAS](https://elias-ai.eu/) project (use case 4) implements a RAG chatbot to ask questions around migration in Europe, and receive factual informaiton.  [Repository](https://github.com/renukasinghvirk/idiap_elias_semester_project)
 
 ### 🗂️ Previous Projects
 
-- **World Values Survey**
+- **World Values Survey** \
   This data visualization project takes the form of a quiz to determine which country aligns the most with an individual's values. It offers extensive visualization of the World Values Survey Dataset. [Repository](https://com-480-data-visualization.github.io/data-vizards/)
 
 - **Lab in Signal and Image Processing**
