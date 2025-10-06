@@ -4,7 +4,7 @@ I’m Renuka SINGH VIRK, a *MSc student in Electrical and Electronic Engineering
 
 ### 🗂️ Ongoing Projects
 - **Ask the Migration Reports: a RAG chatbot** \
-  This project realized in the context of the [ELIAS](https://elias-ai.eu/) project (use case 4) implements a RAG chatbot to ask questions around migration in Europe, and receive factual informaiton.  [Repository](https://github.com/renukasinghvirk/idiap_elias_semester_project)
+  This project realized in the context of the [ELIAS](https://elias-ai.eu/) project (use case 4) implements a RAG chatbot to ask questions around migration in Europe, and receive factual information.  [Repository](https://github.com/renukasinghvirk/idiap_elias_semester_project)
 
 ### 🗂️ Previous Projects
 
