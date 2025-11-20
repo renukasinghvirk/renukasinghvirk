@@ -12,7 +12,7 @@ I’m Renuka SINGH VIRK, a *MSc student in Electrical and Electronic Engineering
 ### 🗂️ Previous Projects
 
 - **World Values Survey** \
-  This data visualization project takes the form of a quiz to determine which country aligns the most with an individual's values. It offers extensive visualization of the World Values Survey Dataset. [Repository](https://com-480-data-visualization.github.io/data-vizards/)
+  This data visualization project takes the form of a quiz to determine which country aligns the most with an individual's values. It offers extensive visualization of the World Values Survey Dataset. [Website](https://com-480-data-visualization.github.io/data-vizards/)
 
 - **Lab in Signal and Image Processing**
   - [Introduction to image processing](https://github.com/renukasinghvirk/lab_signal_processing/blob/main/Assignment%201%20Introduction%20to%20Image%20Processing.ipynb)
