@@ -4,8 +4,11 @@ I’m Renuka SINGH VIRK, a *MSc student in Electrical and Electronic Engineering
 
 ### 🗂️ Ongoing Projects
 - **Ask the Migration Reports: a RAG chatbot** \
-  This project realized in the context of the [ELIAS](https://elias-ai.eu/) project (use case 4) implements a RAG chatbot to ask questions around migration in Europe, and receive factual information.  [Repository](https://gitlab.idiap.ch/rannapureddy/qa-migration-reports)
+  This project realized in the context of the [ELIAS](https://elias-ai.eu/) project (use case 4) implements a RAG chatbot to ask questions around migration in Europe, and receive factual information.  [Repository is coming soon](https://gitlab.idiap.ch/rannapureddy/qa-migration-reports)
 
+- **Convex Optimization Projects** \
+  Small projects around convex optimization for the course MGT-418 at EPFL. [Repository](https://github.com/renukasinghvirk/convex-optimization/tree/main)
+  
 ### 🗂️ Previous Projects
 
 - **World Values Survey** \
@@ -15,6 +18,10 @@ I’m Renuka SINGH VIRK, a *MSc student in Electrical and Electronic Engineering
   - [Introduction to image processing](https://github.com/renukasinghvirk/lab_signal_processing/blob/main/Assignment%201%20Introduction%20to%20Image%20Processing.ipynb)
   - [Object detection and recognition](https://github.com/renukasinghvirk/lab_signal_processing/blob/main/Assignment%202%20Object%20Detection%20and%20Recognition.ipynb)
   - [Object tracking](https://github.com/renukasinghvirk/lab_signal_processing/blob/main/Assignment%203%20Object%20Tracking.ipynb)
+ 
+- **Coins, Covers, and Strategies: A Journey Through Game Theory and Linear Programming** \  
+  Formulated a zero-sum LP, proved König’s theorem, and implemented a simplex solver delivering strategies that cap losses at 25 coins. [Report]([Coins, Covers, and Strategies: A Journey Through Game
+Theory and Linear Programming](https://github.com/yoannLafore/odm_project/blob/main/MGT483_final.pdf))
 
 - **Automated Coin Detection**  
  Conducted a computer vision project for EE-451 for the detection and classification of euro and franc coins, building an automated classification system. [Repository](https://github.com/renukasinghvirk/Project_imageanalysis/blob/ca8c9e9af73ab01da491050c1336f810f3ea0128/Group56%20(5).ipynb)
