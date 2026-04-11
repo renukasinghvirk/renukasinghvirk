@@ -1,19 +1,14 @@
 ## Hi there 👋
 
-I’m Renuka SINGH VIRK, a *MSc student in Electrical and Electronic Engineering with a focus on Machine Learning and Signal Processing* at **EPFL**. My work and projects are centered around  *machine learning*, *image & video analysis*, *wireless communication*, *embedded systems* and *hardware design*. 
-
-### 🗂️ Ongoing Projects
-- **Ask the Migration Reports: a RAG chatbot** \
-  This project realized in the context of the [ELIAS](https://elias-ai.eu/) project (use case 4) implements a RAG chatbot to ask questions around migration in Europe, and receive factual information.  [Repository is coming soon](https://gitlab.idiap.ch/rannapureddy/qa-migration-reports)
-
-- **Convex Optimization Projects** \
-  Small projects around convex optimization for the course MGT-418 at EPFL. [Repository](https://github.com/renukasinghvirk/convex-optimization/tree/main)
+I’m Renuka SINGH VIRK, a *MSc student in Electrical and Electronic Engineering with a focus on Machine Learning and AI* at **EPFL**. My work and projects are centered around  *machine learning*, *image & video analysis*, *wireless communication*, *embedded systems* and *hardware design*. 
   
-### 🗂️ Previous Projects
-
+### 🗂️ Projects
+- **Ask the Migration Reports: a RAG chatbot** \
+  This project realized in the context of the [ELIAS](https://elias-ai.eu/) project (use case 4) implements a RAG chatbot to ask questions around migration in Europe, and receive factual information.  [Repository](https://github.com/renukasinghvirk/qa-migration-reports) [Report](https://github.com/renukasinghvirk/qa-migration-reports/blob/main/documents/report/Ask_the_Migration_Reports.pdf)
+  
 - **World Values Survey** \
   This data visualization project takes the form of a quiz to determine which country aligns the most with an individual's values. It offers extensive visualization of the World Values Survey Dataset. [Website](https://com-480-data-visualization.github.io/data-vizards/)
-
+  
 - **Lab in Signal and Image Processing**
   - [Introduction to image processing](https://github.com/renukasinghvirk/lab_signal_processing/blob/main/Assignment%201%20Introduction%20to%20Image%20Processing.ipynb)
   - [Object detection and recognition](https://github.com/renukasinghvirk/lab_signal_processing/blob/main/Assignment%202%20Object%20Detection%20and%20Recognition.ipynb)
@@ -34,6 +29,9 @@ Formulated a zero-sum LP, proved König’s theorem, and implemented a simplex s
 - **OFDM Wireless Transmitter and Receiver**  
   Developed a MATLAB-based Orthogonal Frequency-Division Multiplexing (OFDM) system for wireless communication, focusing on efficient data transmission and reception. [Repository](https://github.com/renukasinghvirk/OFDM_system)
 
+- **Convex Optimization Projects** \
+  Small projects around convex optimization for the course MGT-418 at EPFL. [Repository](https://github.com/renukasinghvirk/convex-optimization/tree/main)
+  
 - **Microcontroller Assembly Game**  
   Designed and implemented a small game on a microcontroller using assembly language, demonstrating low-level hardware programming and optimization techniques. [Repository](https://github.com/renukasinghvirk/MCU_project)
 
