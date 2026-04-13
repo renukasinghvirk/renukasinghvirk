@@ -18,7 +18,7 @@ I’m Renuka SINGH VIRK, a *MSc student in Electrical and Electronic Engineering
 Formulated a zero-sum LP, proved König’s theorem, and implemented a simplex solver delivering strategies that cap losses at 25 coins. [Report](https://github.com/yoannLafore/odm_project/blob/main/MGT483_final.pdf)
 
 - **Automated Coin Detection**  
- Conducted a computer vision project for EE-451 for the detection and classification of euro and franc coins, building an automated classification system. [Repository](https://github.com/renukasinghvirk/Project_imageanalysis/blob/ca8c9e9af73ab01da491050c1336f810f3ea0128/Group56%20(5).ipynb)
+ Conducted a computer vision project for EE-451 for the detection and classification of euro and franc coins, building an automated classification system. [Repository](https://github.com/renukasinghvirk/Project_imageanalysis/blob/main/Coin_Detection.ipynb)
 
 - **Hate Speech Detection**  
   Investigated hate speech detection using natural language processing and deep learning techniques. The project aims to address hate speech handling online in a comical way. [Repository](https://github.com/mehdihajoub/Borderline/tree/main)
